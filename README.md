@@ -1,4 +1,4 @@
-# CS 234 Lab 1: Hello World"
+# MSHANA,WILLIAMU ROBERT 2020-04-08022
 
 ## 1. Preliminaries
 **GitHub**. We're using GitHub to manage how all the code goes from us to you and back to us again. That means you'll need to create yourself an account at https://github.com. If you haven't already done so, you need to it now.
